@@ -27,7 +27,7 @@
 - Ученик 1а в «ЮЭЙ»
 - Причуда – двигатель
 ![alt-текст](https://github.com/soia2011/MGA-Heroes/blob/main/%D0%98%D0%B8%D0%B4%D0%B0%20%D0%A2%D1%8D%D0%BD%D1%8C%D1%8F.jpeg)
-[Подробное описание героя Ииды Тэнья.](https://myheroacademia.fandom.com/ru/wiki/%D0%A2%D0%B5%D0%BD%D1%8C%D1%8F_%D0%98%D0%B8%D0%B4%D0%B0)
+[Подробное описание героя Иида Тэнья.](https://myheroacademia.fandom.com/ru/wiki/%D0%A2%D0%B5%D0%BD%D1%8C%D1%8F_%D0%98%D0%B8%D0%B4%D0%B0)
 
 # Отрицательные персонажи
 
@@ -36,8 +36,8 @@
 - 21 год. Прозвища нет
 - Главный злодей
 - Причуда – воздушная пушка
-
-
+![alt-текст](https://github.com/soia2011/MGA-Heroes/blob/main/%D0%A8%D0%B8%D0%B3%D0%B0%D1%80%D0%B0%D0%BA%D0%B8%20%D0%A2%D0%BE%D0%BC%D1%83%D1%80%D0%B0.jpeg)
+[Подробное описание героя Шигараки Томура](https://myheroacademia.fandom.com/ru/wiki/%D0%A2%D0%BE%D0%BC%D1%83%D1%80%D0%B0_%D0%A8%D0%B8%D0%B3%D0%B0%D1%80%D0%B0%D0%BA%D0%B8)
 #### •	Тога Якудза
 #### 17 лет. Прозвище «Тога Нахимико»
 #### Помощница Шигараки
